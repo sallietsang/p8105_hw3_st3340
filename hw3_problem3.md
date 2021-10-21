@@ -70,7 +70,7 @@ aisle_ordered%>%
   coord_cartesian(expand =TRUE)
 ```
 
-<img src="hw3_problem1_2_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
+<img src="hw3_problem3_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" />
 
 If you want to select more than one subject you can use the %in%
 operator.
@@ -192,7 +192,7 @@ ggplot(Excellent_resp,aes(x = year, y = data_value, color = state)) +
 
     ## Warning: Removed 3 row(s) containing missing values (geom_path).
 
-<img src="hw3_problem1_2_files/figure-gfm/unnamed-chunk-6-1.png" width="90%" />
+<img src="hw3_problem3_files/figure-gfm/unnamed-chunk-6-1.png" width="90%" />
 
 \#Problem 3 load the dataset first
 
